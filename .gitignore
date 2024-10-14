@@ -1,0 +1,8 @@
+# Binaries
+.aws/
+.kube/
+.envrc
+.DS_STORE
+
+.terraform/
+.terraform.lock.hcl
